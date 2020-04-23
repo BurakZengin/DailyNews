@@ -19,12 +19,12 @@ public class Currency {
     double eurToUsd;
 
     public Currency(double usdToTl, double usdToEur, double tlToUsd, double tlToEur, double eurToTl, double eurToUsd) {
-        this.usdToTl = usdToTl; // GitHub test
+        this.usdToTl = usdToTl;
         this.usdToEur = usdToEur;
         this.tlToUsd = tlToUsd;
         this.tlToEur = tlToEur;
         this.eurToTl = eurToTl;
-        this.eurToUsd = eurToUsd;// GitHub test2
+        this.eurToUsd = eurToUsd;
     }
 
     public double getUsdToTl() {

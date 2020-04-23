@@ -24,7 +24,7 @@ public class Currency {
         this.tlToUsd = tlToUsd;
         this.tlToEur = tlToEur;
         this.eurToTl = eurToTl;
-        this.eurToUsd = eurToUsd;// GitHub test2
+        this.eurToUsd = eurToUsd;
     }
 
     public double getUsdToTl() {
