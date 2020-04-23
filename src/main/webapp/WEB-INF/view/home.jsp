@@ -37,7 +37,7 @@
             }
 
             .btn-circle {
-                width: 30px;
+                width: 32px; 
                 height: 30px;
                 text-align: center;
                 padding: 6px 0;
